@@ -22,4 +22,5 @@ public class UseMap {
 	}
 	String tableName = "test_hash_map";
 
+
 }
