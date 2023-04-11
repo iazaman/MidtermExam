@@ -89,6 +89,7 @@ public class EmployeeInfo {
 		public static int whichMonth(String givenMonth) {
 			Months months = Months.valueOf(givenMonth);
 			int date = 0;
+
 			switch (months) {
 				case January:
 					date = 1;
