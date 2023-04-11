@@ -23,6 +23,7 @@ public class Anagram {
         Arrays.sort(charArr2);
 
         return Arrays.equals(charArr1,charArr2);
+
     }
 
 
