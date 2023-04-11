@@ -71,6 +71,7 @@ public class ConnectToMongoDB {
         //List<User> user = readUserProfileFromMongoDB();
         //for(User person:user){
             //System.out.println(person.getStName()+ " "+ person.getStID());
+
         //}
     }
 }
