@@ -1,5 +1,5 @@
 package math.problems;
-import static
+import static org.junit.Assert.assertArrayEquals;
 
 public class UnitTestingMath {
     private static Object Assert;
