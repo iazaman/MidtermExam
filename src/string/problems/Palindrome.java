@@ -2,10 +2,16 @@ package string.problems;
 
 public class Palindrome {
     public static void main(String[] args) {
-        /*
-          If a String is reversed and it remains unchanged, that is called Palindrome. For example, MOM,DAD,MADAM are
-          Palindrome. So write java code to check if a given String is Palindrome or not.
-         */
+        String name= "MADAM";
+        String reverseName= " ";
+        for(int i=name.length()-1;i>=0;i--){
+            char val = name.charAt(i);
+            reverseName += val;
+        } if (name.equals(reverseName)){
+            System.out.println("Palindrome");
+        } else {
+            System.out.println("Not Palindrome");
+        }
 
     }
 }

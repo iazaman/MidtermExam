@@ -47,7 +47,7 @@ public class EmployeeInfo {
 	 * So you probably need to send 2 arguments.
 	 * 
 	 */
-	public static int calculateEmployeeBonus(int numberOfYearsWithCompany){
+	public static int calculateEmployeeBonus(int numberOfYearsWithCompany, int salary, ){
 		int total=0;
 		return total;
 	}
