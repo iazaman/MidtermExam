@@ -26,7 +26,7 @@ public class UseQueue {
 		while (itr2.hasNext()){
 			System.out.println(itr2.next());
 		}
-		
+
 
 	}
 

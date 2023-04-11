@@ -26,6 +26,7 @@ public class UnitTestingMath {
 
         System.out.println("\nTesting LowestDifference");
         int expectedNum = 1;
+        
         Assert.assertEquals(expectedNum, mi )
 
 

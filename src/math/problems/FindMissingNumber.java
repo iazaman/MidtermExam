@@ -20,5 +20,6 @@ public class FindMissingNumber {
         int missingNumber = sum - actualSum;
         return missingNumber;
 
+
     }
 }

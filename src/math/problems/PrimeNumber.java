@@ -27,6 +27,7 @@ public class PrimeNumber {
 		System.out.println("\nNumber or prime numbers: " + count);
 
 
+
 	}
 
 }
